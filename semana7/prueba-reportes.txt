@@ -1,0 +1,7 @@
+Al consultar la ruta GET /reportes, el servidor muestra todos los reportes registrados previamente mediante la ruta POST.
+
+Los datos se almacenan en un array llamado reportes y se muestran en formato JSON.
+
+Cada vez que se agrega un nuevo reporte, este aparece en la lista al consultar nuevamente la ruta GET.
+
+Los datos permanecen disponibles mientras el servidor esté encendido.
